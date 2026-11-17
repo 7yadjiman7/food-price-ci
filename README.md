@@ -76,7 +76,7 @@ The full analysis, with statistical tests, is in [notebooks/analysis1.ipynb](not
 Requirements: Python 3.10+ and an internet connection for the first download.
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/7yadjiman7/food-price-ci.git
 cd food-price-ci
 
 python -m venv .venv
